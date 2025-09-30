@@ -9,3 +9,9 @@ body {
   background-color: white;
   border-radius: 15px; /*membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
+} 
+.kartu-profil img {
+  widht: 150px: 
+border-radius: 5%; /*Trik untuk membuat gambar persegi menjajdi lingkaran sempurna */
+}
+.kartu-profil { 
